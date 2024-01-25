@@ -27,9 +27,8 @@ int main() {
             printf("Found (#%d): %d => %d\n", idx,  i,  tsum);
         }
     }
-    float time_diff = float( clock () - begin_time );
-    float sec = time_diff/ 1000000;
+    float time_diff = float(clock() - begin_time );
+    float sec = time_diff / 1000000;
     printf ("Found %d amicable number pairs between 1 and %d in %.0f ns (%.3f sec)\n", idx, numUser,  time_diff, sec);
-    //main();
     return 0;
 }
