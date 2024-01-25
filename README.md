@@ -16,3 +16,4 @@ This app is a sort of **hello world** app I use with every programing language t
 
 ## Credits
 - [Amicable numbers wiki](https://en.wikipedia.org/wiki/Amicable_numbers)
+- [CodingC++ Android](https://play.google.com/store/apps/details?id=com.kvassyu.coding2.cpp&hl=en)
